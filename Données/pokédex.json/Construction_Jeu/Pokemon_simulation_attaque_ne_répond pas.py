@@ -1,3 +1,5 @@
+import tkinter 
+
 import random
 
 class Pokemon:
@@ -97,5 +99,6 @@ def battle_simulation():
 
 if __name__ == "__main__":
     battle_simulation()
+
 
 
