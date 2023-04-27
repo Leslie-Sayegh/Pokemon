@@ -95,7 +95,6 @@ def battle_simulation():
     else:
         print("\nTu as gagné contre Mew !")
 
-
 if __name__ == "__main__":
     battle_simulation()
 
