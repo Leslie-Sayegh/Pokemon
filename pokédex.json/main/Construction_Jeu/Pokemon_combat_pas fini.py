@@ -184,4 +184,5 @@ class Combat:
             if adversaire_attaque == 1:
                 adversaire.attaquer(joueur)
                 print(f"{adversaire._Pokemon__nom} attaque !")
+                
 
